@@ -8,7 +8,8 @@ Created on Tue Oct 15 08:15:58 2019
 
 import os
 
-path = os.getcwd()
+#path = os.getcwd()
+path = 'C:\\Users\\fespinosa\\Documents\\Trabajo\\DWH\\Datos\\2020\\202009' 
 #path.replace('/','//')
 files = []
 
